@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [VoiceScribe](https://greatwork.company/tools/voicescribe?ref=awesome-whisper) - Transcribes uploaded audio files (MP3, WAV, M4A) to text in 99 languages, paid per file.
 
 ### Self-hosted
 
